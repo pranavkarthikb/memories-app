@@ -1,5 +1,4 @@
 import React from "react";
-
 import { Card, CardActions, CardContent, CardMedia, Button, Typography } from '@mui/material';
 import ThumbUpAltIcon from '@mui/icons-material/ThumbUpAlt';
 import DeleteIcon from '@mui/icons-material/Delete';
